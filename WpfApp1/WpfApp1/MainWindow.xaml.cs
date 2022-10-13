@@ -24,7 +24,7 @@ namespace WpfApp1
         {
             InitializeComponent();
 
-            lblStampa.Content = "hello eorld";   
+            lblStampa.Content = "hello world";   //scritta aggiustata
         }
     }
 }
