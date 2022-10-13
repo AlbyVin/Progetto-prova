@@ -1,0 +1,5 @@
+C:\Users\alberto.vincenzi\source\repos\consol app corsa\consol app corsa\obj\Debug\net6.0\consol app corsa.csproj.AssemblyReference.cache
+C:\Users\alberto.vincenzi\source\repos\consol app corsa\consol app corsa\obj\Debug\net6.0\consol app corsa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto.vincenzi\source\repos\consol app corsa\consol app corsa\obj\Debug\net6.0\consol app corsa.AssemblyInfoInputs.cache
+C:\Users\alberto.vincenzi\source\repos\consol app corsa\consol app corsa\obj\Debug\net6.0\consol app corsa.AssemblyInfo.cs
+C:\Users\alberto.vincenzi\source\repos\consol app corsa\consol app corsa\obj\Debug\net6.0\consol app corsa.csproj.CoreCompileInputs.cache

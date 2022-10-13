@@ -1,0 +1,8 @@
+C:\Users\alberto.vincenzi\source\repos\prova visual studio 2\prova visual studio 2\bin\Debug\prova visual studio 2.exe.config
+C:\Users\alberto.vincenzi\source\repos\prova visual studio 2\prova visual studio 2\bin\Debug\prova visual studio 2.exe
+C:\Users\alberto.vincenzi\source\repos\prova visual studio 2\prova visual studio 2\bin\Debug\prova visual studio 2.pdb
+C:\Users\alberto.vincenzi\source\repos\prova visual studio 2\prova visual studio 2\obj\Debug\prova visual studio 2.csproj.AssemblyReference.cache
+C:\Users\alberto.vincenzi\source\repos\prova visual studio 2\prova visual studio 2\obj\Debug\prova visual studio 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\alberto.vincenzi\source\repos\prova visual studio 2\prova visual studio 2\obj\Debug\prova visual studio 2.csproj.CoreCompileInputs.cache
+C:\Users\alberto.vincenzi\source\repos\prova visual studio 2\prova visual studio 2\obj\Debug\prova visual studio 2.exe
+C:\Users\alberto.vincenzi\source\repos\prova visual studio 2\prova visual studio 2\obj\Debug\prova visual studio 2.pdb
